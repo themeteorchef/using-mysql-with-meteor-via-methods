@@ -2,6 +2,12 @@
   "public": {},
   "private": {
     "MAIL_URL": "",
+    "mySQL": {
+      "host": "localhost",
+      "user": "themeteorchef",
+      "password": "password",
+      "database": "methods_tutorial"
+    },
     "OAuth": {
       "facebook": {
         "appId": "",

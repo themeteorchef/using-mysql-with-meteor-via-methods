@@ -49,7 +49,7 @@ class DocumentEditor extends React.Component {
         const confirmation = existingDocument ? 'Document updated!' : 'Document added!';
         this.form.reset();
         Bert.alert(confirmation, 'success');
-        history.push(`/documents/${documentId}`);
+        if (documentId) history.push(`/documents/${documentId}`);
       }
     });
   }

@@ -15,6 +15,7 @@
     "jquery": "^2.2.4",
     "jquery-validation": "^1.16.0",
     "meteor-node-stubs": "~0.2.4",
+    "mysql": "^2.14.0",
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-addons-pure-render-mixin": "^15.5.2",
