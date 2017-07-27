@@ -1,6 +1,6 @@
 #### Tutorial: Using MySQL with Meteor via Methods
 
-In this tutorial, we'll learn how to use MySQL in Meteor using Meteor's Methods feature. We'll learn how to
+In this tutorial, we'll learn how to use MySQL in Meteor using Meteor's Methods feature. We'll learn how to define a
 
 [Read this tutorial on The Meteor Chef](https://themeteorchef.com/tutorials/using-mysql-with-meteor-via-methods)  
 
